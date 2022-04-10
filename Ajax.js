@@ -24,7 +24,7 @@ $.ajax({
               <h3 class="product-name mb-2">
                 ${product.name}
               </h3>
-              <h6 class="product-short-desc">
+              <h6 class="product-short-desc text-danger">
                 ${product.short_description}
               </h6>
               <h6 class="product-price mb-2 ">Rp.${product.price}</h6>
